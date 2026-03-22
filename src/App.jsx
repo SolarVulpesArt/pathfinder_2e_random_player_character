@@ -1,10 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
 import pf2_logo from './assets/pf2_logo.png'
 import './App.css'
-import Generator from './Generator'
+import Generator from './Generator.jsx'
 
 
 function App() {
