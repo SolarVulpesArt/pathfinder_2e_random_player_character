@@ -28,7 +28,7 @@
         "ability": "Charisma",
         "hp": "8",
         "rarity": "Common",
-        "summary": "An artist and a scholar, the bard uses performance and esoteric learning to bolster their companions and foil their enemies. Sometimes sneaky and …",
+        "summary": "An artist and a scholar, the bard uses performance and esoteric learning to bolster their companions and foil their enemies.",
         "url": "/Classes.aspx?ID=32"
     },
     {
@@ -36,7 +36,7 @@
         "ability": "Strength, Dexterity",
         "hp": "10",
         "rarity": "Common",
-        "summary": "Wielding a weapon of their faith, the champion fights for a cause espoused by their deity. A champion is steadfast in their beliefs, whether …",
+        "summary": "Wielding a weapon of their faith, the champion fights for a cause espoused by their deity. Champions can be vastly different depending on their cause and deity",
         "url": "/Classes.aspx?ID=58"
     },
     {
@@ -44,7 +44,7 @@
         "ability": "Wisdom",
         "hp": "8",
         "rarity": "Common",
-        "summary": "The cleric is dedicated to the worship of a single deity and draws divine magic from this devotion. Clerics can be vastly different depending on who …",
+        "summary": "The cleric is dedicated to the worship of a single deity and draws divine magic from this devotion. Clerics can be vastly different depending on their deity",
         "url": "/Classes.aspx?ID=33"
     },
     {
@@ -60,7 +60,7 @@
         "ability": "Wisdom",
         "hp": "8",
         "rarity": "Common",
-        "summary": "The druid walks the wild, primordial places of the world without fear, harnessing the primal magic of nature and controlling it with calm purpose. A …",
+        "summary": "The druid walks the wild, primordial places of the world without fear, harnessing the primal magic of nature and controlling it with calm purpose.",
         "url": "/Classes.aspx?ID=34"
     },
     {
@@ -76,7 +76,7 @@
         "ability": "Strength, Dexterity",
         "hp": "10",
         "rarity": "Common",
-        "summary": "With calculated daring and fearless determination, the fighter confronts their enemies while defending allies from harm. A master of the battlefield, …",
+        "summary": "Fighting for honor, greed, loyalty, or simply the thrill of battle, fighters are an undisputed masters of weaponry and combat techniques",
         "url": "/Classes.aspx?ID=35"
     },
     {
@@ -92,7 +92,7 @@
         "ability": "Dexterity",
         "hp": "8",
         "rarity": "Uncommon",
-        "summary": "While most people can fire a gun or crossbow, a gunslinger knows such weapons better than anyone. From reloading to customization, a gunslinger …",
+        "summary": "While most people can fire a gun or crossbow, a gunslinger knows such weapons better than anyone.",
         "url": "/Classes.aspx?ID=20"
     },
     {
@@ -100,7 +100,7 @@
         "ability": "Intelligence",
         "hp": "8",
         "rarity": "Uncommon",
-        "summary": "Any tinkerer can follow a diagram to make a device, but the inventor creates the impossible and challenges the boundaries of reality. An inventor …",
+        "summary": "Any tinkerer can follow a diagram to make a device, but the inventor creates the impossible and challenges the boundaries of reality.",
         "url": "/Classes.aspx?ID=19"
     },
     {
@@ -116,7 +116,7 @@
         "ability": "Constitution",
         "hp": "8",
         "rarity": "Common",
-        "summary": "Elemental matter blasts from a magical gate within every kineticist. Shaping these elements into magical impulses, a kineticist can fight nonstop …",
+        "summary": "The power of the elements flows from within every Kineticist. A kinetic gate inextricably tied to their bodies channel power directly from the elemental planes",
         "url": "/Classes.aspx?ID=23"
     },
     {
@@ -124,7 +124,7 @@
         "ability": "Strength, Dexterity",
         "hp": "8",
         "rarity": "Common",
-        "summary": "The magus, a polymath of battle, trains in both spells and strikes. Combining these arts, a magus channels spells into their weapon or body to …",
+        "summary": "The magus, a polymath of battle, trains in both spells and strikes. Combining these arts, a magus channels spells into their weapon for a devastating strike",
         "url": "/Classes.aspx?ID=17"
     },
     {
@@ -132,7 +132,7 @@
         "ability": "Strength, Dexterity",
         "hp": "10",
         "rarity": "Common",
-        "summary": "The monk seeks perfection in all things, including using their body as the perfect weapon. They can transform into a blur of deadly blows in an …",
+        "summary": "The monk seeks perfection in all things, including using their body as the perfect weapon.",
         "url": "/Classes.aspx?ID=60"
     },
     {
@@ -140,7 +140,7 @@
         "ability": "Charisma",
         "hp": "8",
         "rarity": "Common",
-        "summary": "The oracle is a paradox of divine magic, able to tap into energies that grant potent revelations. Such power comes at the cost of a curse that they …",
+        "summary": "The oracle is a paradox of divine magic, able to tap into energies that both grant potent revelations and curse them",
         "url": "/Classes.aspx?ID=61"
     },
     {
@@ -148,7 +148,7 @@
         "ability": "Intelligence, Charisma",
         "hp": "6",
         "rarity": "Common",
-        "summary": "Guided by the personal combination of their subconscious and conscious mind, a psychic calls forth occult magic with but a thought. The psychic …",
+        "summary": "Guided by the personal combination of their subconscious and conscious mind, a psychic calls forth occult magic with but a thought.",
         "url": "/Classes.aspx?ID=68"
     },
     {
@@ -156,7 +156,7 @@
         "ability": "Strength, Dexterity",
         "hp": "10",
         "rarity": "Common",
-        "summary": "Resourceful and cunning, the ranger is a hunter, tracker, and warrior who preserves the natural world and protects civilization from its ravages. …",
+        "summary": "Resourceful and cunning, the ranger is a hunter, tracker, and warrior who preserves the natural world and protects civilization from its ravages.",
         "url": "/Classes.aspx?ID=36"
     },
     {
@@ -164,7 +164,7 @@
         "ability": "Dexterity, other",
         "hp": "8",
         "rarity": "Common",
-        "summary": "Cunning and quick, the rogue brings skill and expertise few of their comrades can match. In battle, they excel at sneak attacks and ambushes. Their …",
+        "summary": "Cunning and quick, the rogue brings skill and expertise few of their comrades can match. In battle, they excel at sneak attacks and ambushes.",
         "url": "/Classes.aspx?ID=37"
     },
     {
@@ -172,7 +172,7 @@
         "ability": "Charisma",
         "hp": "6",
         "rarity": "Common",
-        "summary": "The intense magic the sorcerer commands comes from neither study nor worship—it comes from their blood, the power of their heritage flowing through …",
+        "summary": "The intense magic the sorcerer commands comes from neither study nor worship — it comes from their blood. They're born with power of their heritage.",
         "url": "/Classes.aspx?ID=62"
     },
     {
@@ -180,7 +180,7 @@
         "ability": "Charisma",
         "hp": "10",
         "rarity": "Common",
-        "summary": "A summoner acts as the living anchor to a powerful being called an eidolon, which they call upon for aid. Summoners maintain deep connections with …",
+        "summary": "A summoner acts as the living anchor to a powerful being called an eidolon, which they call upon for aid.",
         "url": "/Classes.aspx?ID=18"
     },
     {
@@ -196,7 +196,7 @@
         "ability": "Charisma",
         "hp": "8",
         "rarity": "Common",
-        "summary": "The thaumaturge has seen every monster and knows every secret. Supplementing their skill at arms and ability to strike a monster's weakness with …",
+        "summary": "The thaumaturge has seen every monster and knows every secret. Supplementing their skill at arms and ability to strike a monster's weakness.",
         "url": "/Classes.aspx?ID=69"
     },
     {
@@ -204,7 +204,7 @@
         "ability": "Intelligence",
         "hp": "6",
         "rarity": "Common",
-        "summary": "The witch is a versatile spellcaster who learns their magic from a familiar, sent to them by a powerful and mysterious patron. The witch's mastery of …",
+        "summary": "The witch is a versatile spellcaster who learns their magic from a familiar, sent to them by a powerful and mysterious patron.",
         "url": "/Classes.aspx?ID=38"
     },
     {
@@ -212,7 +212,7 @@
         "ability": "Intelligence",
         "hp": "6",
         "rarity": "Common",
-        "summary": "The wizard is the arcane master of spellcasting, plucking incredible power from reality through complicated spell formulas. They stride with …",
+        "summary": "The wizard is the arcane master of spellcasting, plucking incredible power from reality through complicated spell formulas.",
         "url": "/Classes.aspx?ID=39"
     }
 ]
