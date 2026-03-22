@@ -80,6 +80,15 @@ h2 {
     font-size: 20px;
   }
 }
+h6{
+  font-size: 12px;
+  line-height: 118%;
+  letter-spacing: -0.24px;
+  margin: 0 0 16px;
+  @media (max-width: 1024px) {
+    font-size: 8px;
+  }
+}
 p {
   margin: 0;
 }
