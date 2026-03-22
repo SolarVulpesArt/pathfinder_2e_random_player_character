@@ -113,7 +113,7 @@
         "language": "Common, Thalassic",
         "vision": "Low-Light Vision",
         "rarity": "Uncommon",
-        "summary": "Athamarus are fish-like humanoids who form tight-knit communities underseas, with villages of siblings led by a common matriarch. Athamarus engage in …",
+        "summary": "Athamarus are fish-like humanoids who form tight-knit communities underseas, with villages of siblings led by a common matriarch.",
         "url": "/Ancestries.aspx?ID=71"
     },
     {
@@ -126,7 +126,7 @@
         "language": "Alghollthu, Common",
         "vision": "Low-Light Vision",
         "rarity": "Uncommon",
-        "summary": "Azarketis, inheritors of a shattered empire's legacy, hold their proud traditions close but still surface to interact with the rest of the world.",
+        "summary": "Azarketis are aquatic humans who inhereted the legacy of a shattered empire. They hold their traditions close but still surface to interact with the rest of the world.",
         "url": "/Ancestries.aspx?ID=41"
     },
     {
@@ -165,7 +165,7 @@
         "language": "Common, Shadowtongue",
         "vision": "Darkvision",
         "rarity": "Uncommon",
-        "summary": "Once human and now something apart, fetchlings display the  Shadow Plane's  ancient influence through monochrome complexions and glowing eyes",
+        "summary": "Once human and now something apart, fetchlings display the Shadow Plane's ancient influence through their grey skin and glowing eyes",
         "url": "/Ancestries.aspx?ID=30"
     },
     {
@@ -204,7 +204,7 @@
         "language": "Common",
         "vision": "Low-Light Vision",
         "rarity": "Uncommon",
-        "summary": "Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities.",
+        "summary": "Kitsune are a charismatic and witty fox-people with a connection to the spiritual that grants them many magical abilities.",
         "url": "/Ancestries.aspx?ID=38"
     },
     {
@@ -217,7 +217,7 @@
         "language": "Common, Sakvroth",
         "vision": "Darkvision",
         "rarity": "Uncommon",
-        "summary": "Kobolds are small and reptilian, with features marked by the power they choose to follow.",
+        "summary": "Kobolds are small humanoid reptilians, with features marked by the power they choose to follow.",
         "url": "/Ancestries.aspx?ID=80"
     },
     {
@@ -269,7 +269,7 @@
         "language": "Common, Nagaji",
         "vision": "Low-Light Vision",
         "rarity": "Uncommon",
-        "summary": "With humanoid figures and serpentine heads, nagaji are heralds, companions, and servitors of powerful  nagas.",
+        "summary": "Nagaji are humanoid figures varied serpentine features. They are heralds, companions, and servitors of powerful nagas.",
         "url": "/Ancestries.aspx?ID=54"
     },
     {
@@ -360,7 +360,7 @@
         "language": "Common, Shadowtongue, Wayang",
         "vision": "Darkvision",
         "rarity": "Uncommon",
-        "summary": "Small people native to the Netherworld. Immigrated to Golarion after Earthfall. ",
+        "summary": "Wayang are small natives of the Netherworld with affinity for darkness, artistic expression and spiritual introspection",
         "url": "/Ancestries.aspx?ID=91"
     },
     {
@@ -373,7 +373,7 @@
         "language": "Anadi, Mwangi",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Anadi people are reclusive, sapient spiders who hail from the jungles of southern Garund.",
+        "summary": "Anadi are reclusive, sapient spiders who mastered a technicue to assume a humanoid form",
         "url": "/Ancestries.aspx?ID=42"
     },
     {
@@ -386,7 +386,7 @@
         "language": "Androffan, Common",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "Technological wonders from another world, androids have synthetic bodies and living souls.",
+        "summary": "Android are technological wonders from another world with synthetic bodies and living souls.",
         "url": "/Ancestries.aspx?ID=27"
     },
     {
@@ -399,7 +399,7 @@
         "language": "Common, Utopian",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "These intelligent constructs house actual souls and represent what remains of a dying empire's last attempt at greatness.",
+        "summary": "Automaton are intelligent constructs that house actual souls and represent what remains of a dying empire's last attempt at greatness.",
         "url": "/Ancestries.aspx?ID=48"
     },
     {
@@ -425,7 +425,7 @@
         "language": "Mwangi, Rasu",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Conrasus are shards of cosmic force given consciousness who construct intricate exoskeletons to interface with the mortal world.",
+        "summary": "Conrasus are shards of cosmic force given consciousness who construct intricate wooden exoskeletons to interface with the mortal world.",
         "url": "/Ancestries.aspx?ID=43"
     },
     {
@@ -464,7 +464,7 @@
         "language": "Common, Sylvan",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "These intelligent plant people, created by a long-dead druid, possess a sort of immortality through their seeds.",
+        "summary": "Ghoran are intelligent plant people that were created by a long-dead druid and possess a sort of immortality through their seeds.",
         "url": "/Ancestries.aspx?ID=52"
     },
     {
@@ -477,7 +477,7 @@
         "language": "Goloma, Mwangi",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Golomas fear most other people and deliberately use their unusual biology to frighten off those they consider to be dangerous predators.",
+        "summary": "Golomas are frightening humanoids with many eyes, chitinous skin and a smooth oblong wedge-like face. This prey species uses their looks to frighten preditors",
         "url": "/Ancestries.aspx?ID=45"
     },
     {
@@ -490,7 +490,7 @@
         "language": "Common, Jotun",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "Jotunborn were forged from the blood of an ancient group of giants called titans, tasked to watch over  the Universe.",
+        "summary": "Jotunborn are large blue humanoids who were forged from the blood of the titans and tasked to watch over the Universe.",
         "url": "/Ancestries.aspx?ID=95"
     },
     {
@@ -503,7 +503,7 @@
         "language": "Common, Kashrishi",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Kashrishi make their homes in remote areas of the world. These quiet beings have stout, durable frames and distinctive crystalline horns.",
+        "summary": "Kashrishi are stout, durable short humanoids with a distinctive crystalline horns who prefer peaceful quiet of remote lands",
         "url": "/Ancestries.aspx?ID=53"
     },
     {
@@ -516,7 +516,7 @@
         "language": "Common",
         "vision": "Darkvision",
         "rarity": "Rare",
-        "summary": "Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain  a spark of life.",
+        "summary": "Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain sapience.",
         "url": "/Ancestries.aspx?ID=49"
     },
     {
@@ -529,7 +529,7 @@
         "language": "Common",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Powerful carabao-headed warriors who live on the isles of Minata. Known for the magical gems in their foreheads that are said to contain their souls.",
+        "summary": "Sarangay are powerful carabao-headed warriors who live on the isles of Minata. Their soul is contained in a magical gem embedded forehead.",
         "url": "/Ancestries.aspx?ID=89"
     },
     {
@@ -555,7 +555,7 @@
         "language": "Common, Shoony",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "Diminutive humanoids who resemble squat, bipedal dogs, shoonies are sometimes mistaken for weak and insular pacifists.",
+        "summary": "Shoony are squat dog-like humanoids, shoonies are sometimes mistaken for weak pacifists their sheer perseverance makes them anything but helpless.",
         "url": "/Ancestries.aspx?ID=16"
     },
     {
@@ -607,7 +607,7 @@
         "language": "Common, Surki",
         "vision": "Darkvision",
         "rarity": "Rare",
-        "summary": "An insectile and highly metamorphic species that subsists on the latent magic in the world around them.",
+        "summary": "Surki are highly metamorphic insectoid species that subsists on the latent magic in the world around them.",
         "url": "/Ancestries.aspx?ID=76"
     },
     {
@@ -633,7 +633,7 @@
         "language": "Common, Fey, Yaksha",
         "vision": "Low-Light Vision",
         "rarity": "Rare",
-        "summary": "Divine spirits who emigrated to Golarion from the first world.",
+        "summary": "Yaksha are divine spirits who emigrated to Golarion from the first world.",
         "url": "/Ancestries.aspx?ID=92"
     },
     {
@@ -646,7 +646,7 @@
         "language": "Common",
         "vision": "",
         "rarity": "Rare",
-        "summary": "Beings who usually begin their existence as simple animals, objects, or plants, but have found a means to transcend their original forms.",
+        "summary": "Yaoguai are beings that began their existence as simple animals, objects, or plants, but have found a means to transcend their original forms.",
         "url": "/Ancestries.aspx?ID=93"
     }
 ]
