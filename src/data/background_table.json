@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Academy Dropout",
+        "ability": "Intelligence, Charisma",
+        "skill": "Arcana, Academia Lore",
+        "feat": "Dubious Knowledge",
+        "rarity": "Common",
+        "summary": "You were enrolled at a prestigious magical academy, but you've since dropped out. Maybe there was a momentous incident, maybe you had to return to …",
+        "url": "/Backgrounds.aspx?ID=228"
+    },
+    {
+        "name": "Acolyte",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Religion, Scribing Lore",
+        "feat": "Student of the Canon",
+        "rarity": "Common",
+        "summary": "You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or …",
+        "url": "/Backgrounds.aspx?ID=406"
+    },
+    {
+        "name": "Acrobat",
+        "ability": "Strength, Dexterity",
+        "skill": "Acrobatics, Circus Lore",
+        "feat": "Steady Balance",
+        "rarity": "Common",
+        "summary": "In a circus or on the streets, you earned your pay by performing as an acrobat. You might have turned to adventuring when the money dried up, or …",
+        "url": "/Backgrounds.aspx?ID=407"
+    },
+    {
+        "name": "Acupuncturist",
+        "ability": "Wisdom, Dexterity",
+        "skill": "Medicine, Acupuncture Lore",
+        "feat": "Battle Medicine",
+        "rarity": "Uncommon",
+        "summary": "You’ve studied qi and its abilities to heal the body through assessment and regulating qi flow. You know occult techniques that originated in Chu Ye …",
+        "url": "/Backgrounds.aspx?ID=471"
+    },
+    {
+        "name": "Aeronaut",
+        "ability": "Strength, Dexterity",
+        "skill": "Athletics, Piloting Lore",
+        "feat": "Assurance",
+        "rarity": "Uncommon",
+        "summary": "You have mastered the techniques for piloting all manner of airships—balloons, dirigibles, winged vehicles, or something  altogether more …",
+        "url": "/Backgrounds.aspx?ID=542"
+    },
+    {
+        "name": "Alkenstar Outlaw",
+        "ability": "Dexterity, Constitution",
+        "skill": "Thievery, Underworld Lore",
+        "feat": "Subtle Theft",
+        "rarity": "Uncommon",
+        "summary": "You're an outlaw whose first crime was stealing the guns from Alkenstar's Gunworks which allowed you to commence a crime spree of epic proportions. …",
+        "url": "/Backgrounds.aspx?ID=280"
+    },
+    {
+        "name": "Alkenstar Sojourner",
+        "ability": "Intelligence, Charisma",
+        "skill": "Society, Engineering Lore",
+        "feat": "Streetwise",
+        "rarity": "Uncommon",
+        "summary": "You came to Alkenstar because you heard they had guns, but you stayed because of the atmosphere. Or the guns. Either way, journalism and scientific …",
+        "url": "/Backgrounds.aspx?ID=281"
+    },
+    {
+        "name": "Alloysmith",
+        "ability": "Strength, Intelligence",
+        "skill": "Crafting, Plane of Metal Lore",
+        "feat": "Specialty Crafting",
+        "rarity": "Common",
+        "summary": "Blacksmithing might be an ancient profession, but you are its cutting edge. You've studied the properties of different metals, experimented with them …",
+        "url": "/Backgrounds.aspx?ID=376"
+    },
+    {
+        "name": "Amnesiac",
+        "ability": "",
+        "skill": "",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "Your background is... well... honestly, you can't remember! You might have inklings deep within your mind, undercurrents of unusual emotions or …",
+        "url": "/Backgrounds.aspx?ID=463"
+    },
+    {
+        "name": "Animal Whisperer",
+        "ability": "Wisdom, Charisma",
+        "skill": "Nature, Lore related to one terrain inhabited by animals you like (such as Plains Lore or Swamp Lore).",
+        "feat": "Train Animal",
+        "rarity": "Common",
+        "summary": "You have always felt a connection to animals, and it was only a small leap to learn to train them. As you travel, you continuously encounter …",
+        "url": "/Backgrounds.aspx?ID=408"
+    },
+    {
+        "name": "Anti-Magical",
+        "ability": "Constitution, Wisdom",
+        "skill": "Lore of your choice",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "Magic has never worked quite right around you. Perhaps you have become a magic-user in spite of that, or perhaps you use your unique ability to fight …",
+        "url": "/Backgrounds.aspx?ID=239"
+    },
+    {
+        "name": "Anti-Tech Activist",
+        "ability": "Constitution, Charisma",
+        "skill": "Intimidation, Guild Lore",
+        "feat": "Group Coercion",
+        "rarity": "Common",
+        "summary": "You've seen the sorts of things that technology brings— polluted environments, workers put out of their jobs or horribly injured, and the slow …",
+        "url": "/Backgrounds.aspx?ID=249"
+    },
+    {
+        "name": "Arcane Revolutionary",
+        "ability": "Dexterity, Intelligence",
+        "skill": "Arcana, Lore related to the settlement you liberated.",
+        "feat": "Quick Identification",
+        "rarity": "Uncommon",
+        "summary": "You have fought against oppressive leaders and governments, harnessing ancient magical energies to help liberate your  community from much larger, …",
+        "url": "/Backgrounds.aspx?ID=543"
+    },
+    {
+        "name": "Archaeologist",
+        "ability": "Constitution, Intelligence",
+        "skill": "Society, Architecture Lore",
+        "feat": "Additional Lore",
+        "rarity": "Common",
+        "summary": "You've excavated enough sites to know that ancient civilizations aren't lost; they're merely buried and waiting for the right scholar to unearth them …",
+        "url": "/Backgrounds.aspx?ID=202"
+    },
+    {
+        "name": "Artisan",
+        "ability": "Strength, Intelligence",
+        "skill": "Crafting, Guild Lore",
+        "feat": "Specialty Crafting",
+        "rarity": "Common",
+        "summary": "As an apprentice, you practiced a particular form of building or crafting, developing specialized skill. You might have been a blacksmith’s …",
+        "url": "/Backgrounds.aspx?ID=409"
+    },
+    {
+        "name": "Artist",
+        "ability": "Dexterity, Charisma",
+        "skill": "Crafting, Art Lore",
+        "feat": "Specialty Crafting",
+        "rarity": "Common",
+        "summary": "Your art is your greatest passion, whatever form it takes. Adventuring might help you find inspiration, or simply be a way to survive until you …",
+        "url": "/Backgrounds.aspx?ID=410"
+    },
+    {
+        "name": "Astrologer",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Occultism, Astrology Lore",
+        "feat": "Oddity Identification",
+        "rarity": "Common",
+        "summary": "Astrologers look to the stars for signs and portents, using their positions in the heavens to chart courses for those living beneath them. As the …",
+        "url": "/Backgrounds.aspx?ID=447"
+    },
+    {
+        "name": "Astrological Augur",
+        "ability": "Wisdom, Charisma",
+        "skill": "Astrology Lore",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "During your formative years, you learned the stars are a gateway to mystical power or glimpses into the future. Perhaps you grew up surrounded by  …",
+        "url": "/Backgrounds.aspx?ID=328"
+    },
+    {
+        "name": "Awful Scab",
+        "ability": "Dexterity, Constitution",
+        "skill": "Medicine, Fleshforged Lore",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "Prior to the Evisceration of 4707, the district of V'drysha was a lovely borough on the southern edge of Ecanus. Now, it's the Awful, a vast morass …",
+        "url": "/Backgrounds.aspx?ID=371"
+    },
+    {
+        "name": "Bachuan Revolutionary",
+        "ability": "Wisdom, Strength",
+        "skill": "Society, Law Lore",
+        "feat": "Sign Language",
+        "rarity": "Uncommon",
+        "summary": "Your heart yearns for change and burns for your people. You refuse to conform to the laws that bind you, so you rebel in flashy ways. Your hair is …",
+        "url": "/Backgrounds.aspx?ID=472"
+    },
+    {
+        "name": "Back-Alley Doctor",
+        "ability": "Constitution, Wisdom",
+        "skill": "Medicine, Underworld Lore",
+        "feat": "Risky Surgery",
+        "rarity": "Common",
+        "summary": "You're the medic many turn to when a more official clinic or healer might not be available. You may specialize in stitching up bullet wounds or have …",
+        "url": "/Backgrounds.aspx?ID=267"
+    },
+    {
+        "name": "Bandit",
+        "ability": "Dexterity, Charisma",
+        "skill": "Intimidation, Lore related to the terrain you worked in (such as Desert Lore or Plains Lore).",
+        "feat": "Group Coercion",
+        "rarity": "Common",
+        "summary": "Your past includes no small amount of rural banditry, robbing travelers on the road and scraping by. Whether your robbery was sanctioned by a local …",
+        "url": "/Backgrounds.aspx?ID=411"
+    },
+    {
+        "name": "Banished Celestial",
+        "ability": "",
+        "skill": "",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "You were once something supernatural—a heavenly agent,  grim reaper , immortal  phoenix , or demonic tyrant. For some reason, you’ve been forced to …",
+        "url": "/Backgrounds.aspx?ID=483"
+    },
+    {
+        "name": "Barber",
+        "ability": "Dexterity, Wisdom",
+        "skill": "Medicine, Surgery Lore",
+        "feat": "Risky Surgery",
+        "rarity": "Common",
+        "summary": "Haircuts, dentistry, bloodletting, and surgery—if it takes a steady hand and a razor, you can do it. You may have taken to the road to expand your …",
+        "url": "/Backgrounds.aspx?ID=448"
+    },
+    {
+        "name": "Barkeep",
+        "ability": "Constitution, Charisma",
+        "skill": "Diplomacy, Alcohol Lore",
+        "feat": "Hobnobber",
+        "rarity": "Common",
+        "summary": "You have five specialties: hefting barrels, drinking, polishing steins, drinking, and drinking. You worked in a bar, where you learned how to hold …",
+        "url": "/Backgrounds.aspx?ID=412"
+    },
+    {
+        "name": "Barrister",
+        "ability": "Intelligence, Charisma",
+        "skill": "Diplomacy, Legal Lore",
+        "feat": "Group Impression",
+        "rarity": "Common",
+        "summary": "Piles of legal manuals, stern teachers, and experience in the courtroom have instructed you in legal matters. You’re capable of mounting a …",
+        "url": "/Backgrounds.aspx?ID=413"
+    },
+    {
+        "name": "Battle Mechanic",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Crafting, Vehicle Lore",
+        "feat": "Quick Repair",
+        "rarity": "Common",
+        "summary": "All vehicles eventually break down, from both wear and tear and through contact with the enemy, and someone needs to fix them. You have experience …",
+        "url": "/Backgrounds.aspx?ID=533"
+    },
+    {
+        "name": "Battlefield Scrounger",
+        "ability": "Strength, Intelligence",
+        "skill": "Crafting, Warfare Lore",
+        "feat": "Improvise Tool",
+        "rarity": "Uncommon",
+        "summary": "You've spent years rummaging through the corpses of armies and their equipment as soon as battles were won, seeking  items from the dead that you can …",
+        "url": "/Backgrounds.aspx?ID=548"
+    },
+    {
+        "name": "Beast Blessed",
+        "ability": "Dexterity, Wisdom",
+        "skill": "Survival",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "You once freed a magical beast from captivity and, whether it was intentional or a byproduct of another action, the grateful creature bestowed a …",
+        "url": "/Backgrounds.aspx?ID=362"
+    },
+    {
+        "name": "Blessed",
+        "ability": "Wisdom, Charisma",
+        "skill": "Lore associated with the deity who blessed you.",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "You have been blessed by a divinity. For an unknown reason, and irrespective of your actual beliefs, a deity has granted you a boon to use for good …",
+        "url": "/Backgrounds.aspx?ID=464"
+    },
+    {
+        "name": "Bookkeeper",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Society, Accounting Lore",
+        "feat": "Eye for Numbers",
+        "rarity": "Common",
+        "summary": "You ran the numbers on a large farm, for a merchant's endeavors, or with a major guild in the city. You kept track of expenses, payroll, profits, and …",
+        "url": "/Backgrounds.aspx?ID=449"
+    },
+    {
+        "name": "Bounty Hunter",
+        "ability": "Strength, Wisdom",
+        "skill": "Survival, Legal Lore",
+        "feat": "Experienced Tracker",
+        "rarity": "Common",
+        "summary": "Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive and sought to bring in criminals to make the streets safer, or maybe …",
+        "url": "/Backgrounds.aspx?ID=414"
+    },
+    {
+        "name": "Cannoneer",
+        "ability": "Strength, Dexterity",
+        "skill": "Athletics, Warfare Lore",
+        "feat": "Hefty Hauler",
+        "rarity": "Common",
+        "summary": "You served as a crewmate aboard a military vessel or pirate ship and were responsible for the use and maintenance of the ship's cannons. A strong …",
+        "url": "/Backgrounds.aspx?ID=268"
+    },
+    {
+        "name": "Charlatan",
+        "ability": "Intelligence, Charisma",
+        "skill": "Deception, Underworld Lore",
+        "feat": "Charming Liar",
+        "rarity": "Common",
+        "summary": "You traveled from place to place, peddling false fortunes and snake oil in one town, pretending to be royalty in exile to seduce a wealthy heir in …",
+        "url": "/Backgrounds.aspx?ID=415"
+    },
+    {
+        "name": "Child of the Twin Village",
+        "ability": "Constitution, Charisma",
+        "skill": "Diplomacy, Dreamlands Lore",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "",
+        "url": "/Backgrounds.aspx?ID=587"
+    },
+    {
+        "name": "Chosen One",
+        "ability": "Strength, Charisma",
+        "skill": "Fortune-Teller Lore",
+        "feat": "",
+        "rarity": "Rare",
+        "summary": "Your birth has fulfilled a prediction, and people close to you are counting on you to do great things. There's intense pressure on you to be up to …",
+        "url": "/Backgrounds.aspx?ID=240"
+    },
+    {
+        "name": "Circuit Judge",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Deception, Legal Lore",
+        "feat": "Lie to Me",
+        "rarity": "Uncommon",
+        "summary": "You're a circuit judge, a courtroom on horseback who serves a group of communities out in the Mana Wastes or a similar backwoods region. You show up …",
+        "url": "/Backgrounds.aspx?ID=282"
+    },
+    {
+        "name": "Clockfighter",
+        "ability": "Intelligence, Charisma",
+        "skill": "Crafting, Gladiatorial Lore",
+        "feat": "Experienced Professional",
+        "rarity": "Common",
+        "summary": "While others choose to use their engineering ability to heal the injured or make brilliant innovations, you've used your skill to repair and modify …",
+        "url": "/Backgrounds.aspx?ID=250"
+    },
+    {
+        "name": "Clockwork Researcher",
+        "ability": "Dexterity, Intelligence",
+        "skill": "Society, Engineering Lore",
+        "feat": "Eye for Numbers",
+        "rarity": "Common",
+        "summary": "New forms of clockwork technology are incredibly interesting to you, and you've been studying examples of them to see where else they might be best …",
+        "url": "/Backgrounds.aspx?ID=251"
+    },
+    {
+        "name": "Codebreaker",
+        "ability": "Intelligence, Wisdom",
+        "skill": "Society, Cryptography Lore",
+        "feat": "Glean Contents",
+        "rarity": "Common",
+        "summary": "Whether you're employed by a military organization to decipher coded messages sent by enemy factions or work independently to crack an enigma created …",
+        "url": "/Backgrounds.aspx?ID=252"
+    },
+    {
+        "name": "Combat Carpenter",
+        "ability": "Dexterity, Intelligence",
+        "skill": "Crafting, Engineering Lore",
+        "feat": "Specialty Crafting",
+        "rarity": "Common",
+        "summary": "You have spent countless hours selecting lumber, drafting designs, and constructing all manner of wooden buildings, shields, weapons, and tools. You …",
+        "url": "/Backgrounds.aspx?ID=534"
+    },
+    {
+        "name": "Combat Chaplain",
+        "ability": "Wisdom, Charisma",
+        "skill": "Religion, Lore associated with the deity you worship.",
+        "feat": "Recognize Spell",
+        "rarity": "Common",
+        "summary": "As a member of the clergy, you have been responsible for tending to the spiritual and moral well-being of soldiers and their families. While you may …",
+        "url": "/Backgrounds.aspx?ID=535"
+    },
+    {
+        "name": "Concordance Researcher",
+        "ability": "Intelligence, Wisdom",
+        "skill": "",
+        "feat": "",
+        "rarity": "Uncommon",
+        "summary": "Tasked by the Concordance of Elements to research a variety of enigmatic planar phenomena, you've acquired very specific knowledge about the planes …",
+        "url": "/Backgrounds.aspx?ID=382"
+    },
+    {
+        "name": "Concordance Scout",
+        "ability": "Constitution, Charisma",
+        "skill": "Diplomacy",
+        "feat": "Hobnobber",
+        "rarity": "Uncommon",
+        "summary": "You were hired by the Concordance of Elements to seek out rumors of planar breaches or other evidence of planar imbalances. After reporting back to …",
+        "url": "/Backgrounds.aspx?ID=383"
+    },
+    {
+        "name": "Conscript",
+        "ability": "Strength, Constitution",
+        "skill": "Society, Warfare Lore",
+        "feat": "Dubious Knowledge",
+        "rarity": "Common",
+        "summary": "Like many others in your settlement, you readily performed your duty and served in the army once you came of age. Much to the chagrin of the grizzled …",
+        "url": "/Backgrounds.aspx?ID=536"
+    },
+    {
+        "name": "Cook",
+        "ability": "Constitution, Intelligence",
+        "skill": "Survival, Cooking Lore",
+        "feat": "Seasoned",
+        "rarity": "Common",
+        "summary": "You grew up in the kitchens of a tavern or other dining establishment and excelled there, becoming an exceptional cook. Baking, cooking, a little …",
+        "url": "/Backgrounds.aspx?ID=416"
+    },
+    {
+        "name": "Courier",
+        "ability": "Dexterity, Intelligence",
+        "skill": "Society, Lore for your city of origin.",
+        "feat": "Glean Contents",
+        "rarity": "Common",
+        "summary": "In your youth, you earned coin running messages for persons of wealth and influence, darting through crowded city streets. Your dogged commitment to …",
+        "url": "/Backgrounds.aspx?ID=450"
+    },
+    {
+        "name": "Criminal",
+        "ability": "Dexterity, Intelligence",
+        "skill": "Stealth, Underworld Lore",
+        "feat": "Experienced Smuggler",
+        "rarity": "Common",
+        "summary": "As an unscrupulous independent or as a member of an underworld organization, you lived a life of crime. You might have become an adventurer to seek …",
+        "url": "/Backgrounds.aspx?ID=417"
+    },
+    {
+        "name": "Crystal Healer",
+        "ability": "Wisdom, Charisma",
+        "skill": "Nature, Plane of Earth Lore",
+        "feat": "Natural Medicine",
+        "rarity": "Common",
+        "summary": "Mineral formations can be beautiful things, sparkling and arrayed in geometric configurations. To you, they are also potent natural healing aids. You …",
+        "url": "/Backgrounds.aspx?ID=377"
+    },
+    {
+        "name": "Cultist",
+        "ability": "Intelligence, Charisma",
+        "skill": "Occultism, Lore related to your deity or cult.",
+        "feat": "Schooled in Secrets",
+        "rarity": "Common",
+        "summary": "You were (or still are) a member of a cult whose rites may involve sacred dances to ensure a strong harvest or dire rituals that call upon dark …",
+        "url": "/Backgrounds.aspx?ID=418"
+    }
+]

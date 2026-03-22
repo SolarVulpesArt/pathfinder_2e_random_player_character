@@ -1,0 +1,60 @@
+.increment {
+  font-size: 16px;
+  height: 26px;
+  width: 26px;
+  border-radius: 5px;
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var();
+  border: 2px solid transparent;
+  margin-bottom: 20px;
+  outline: 2px solid var(--accent);
+
+  &:hover {
+    color: var(--accent-highlight);
+    outline: 2px solid var(--accent-highlight);
+  }
+}
+
+.my_button {
+  font-size: 32px;
+  height: 48px;
+  padding: 0 20px 10px 20px;
+  border-radius: 5px;
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var();
+  border: 2px solid transparent;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  outline: 2px solid var(--accent);
+
+  &:hover {
+    color: var(--accent-highlight);
+    outline: 2px solid var(--accent-highlight);
+  }
+}
+
+.checkbox {
+  font-size: 16px;
+  height: 26px;
+  width: 26px;
+  border-radius: 5px;
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var();
+  border: 2px solid transparent;
+  margin-bottom: 20px;
+  outline: 2px solid var(--accent);
+
+  &:hover {
+    color: var(--accent-highlight);
+    outline: 2px solid var(--accent-highlight);
+  }
+}
+
+.int-field-row{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}

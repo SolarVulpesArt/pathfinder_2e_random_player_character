@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Alchemist",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "Smart and resourceful, the alchemist crafts alchemical items—such as bombs, elixirs, and poisons—that they use to defeat foes and aid allies.",
+        "url": "/Classes.aspx?ID=56"
+    },
+    {
+        "name": "Animist",
+        "ability": "Wisdom",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "Animists gain magical spells from spirits called apparitions that they attune to, choosing new apparitions as the circumstances demand.",
+        "url": "/Classes.aspx?ID=64"
+    },
+    {
+        "name": "Barbarian",
+        "ability": "Strength",
+        "hp": "12",
+        "rarity": "Common",
+        "summary": "The barbarian is a fearsome embodiment of rage, unleashing the unstoppable power of their fury against anyone who stands in their way.",
+        "url": "/Classes.aspx?ID=57"
+    },
+    {
+        "name": "Bard",
+        "ability": "Charisma",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "An artist and a scholar, the bard uses performance and esoteric learning to bolster their companions and foil their enemies. Sometimes sneaky and …",
+        "url": "/Classes.aspx?ID=32"
+    },
+    {
+        "name": "Champion",
+        "ability": "Strength, Dexterity",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "Wielding a weapon of their faith, the champion fights for a cause espoused by their deity. A champion is steadfast in their beliefs, whether …",
+        "url": "/Classes.aspx?ID=58"
+    },
+    {
+        "name": "Cleric",
+        "ability": "Wisdom",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The cleric is dedicated to the worship of a single deity and draws divine magic from this devotion. Clerics can be vastly different depending on who …",
+        "url": "/Classes.aspx?ID=33"
+    },
+    {
+        "name": "Commander",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The commander is a battlefield leader whose clever use of tactics and knowledge of war can turn the tide of any fight",
+        "url": "/Classes.aspx?ID=66"
+    },
+    {
+        "name": "Druid",
+        "ability": "Wisdom",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The druid walks the wild, primordial places of the world without fear, harnessing the primal magic of nature and controlling it with calm purpose. A …",
+        "url": "/Classes.aspx?ID=34"
+    },
+    {
+        "name": "Exemplar",
+        "ability": "Strength, Dexterity",
+        "hp": "10",
+        "rarity": "Rare",
+        "summary": "Exemplars channel a spark of divine power through sacred relics called ikons and draw power from the epithets they build for themselves.",
+        "url": "/Classes.aspx?ID=65"
+    },
+    {
+        "name": "Fighter",
+        "ability": "Strength, Dexterity",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "With calculated daring and fearless determination, the fighter confronts their enemies while defending allies from harm. A master of the battlefield, …",
+        "url": "/Classes.aspx?ID=35"
+    },
+    {
+        "name": "Guardian",
+        "ability": "Strength",
+        "hp": "12",
+        "rarity": "Common",
+        "summary": "The guardian is a defensive combatant who focuses on squeezing every last drop of protection from their armor.",
+        "url": "/Classes.aspx?ID=67"
+    },
+    {
+        "name": "Gunslinger",
+        "ability": "Dexterity",
+        "hp": "8",
+        "rarity": "Uncommon",
+        "summary": "While most people can fire a gun or crossbow, a gunslinger knows such weapons better than anyone. From reloading to customization, a gunslinger …",
+        "url": "/Classes.aspx?ID=20"
+    },
+    {
+        "name": "Inventor",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Uncommon",
+        "summary": "Any tinkerer can follow a diagram to make a device, but the inventor creates the impossible and challenges the boundaries of reality. An inventor …",
+        "url": "/Classes.aspx?ID=19"
+    },
+    {
+        "name": "Investigator",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "Clever and insightful, the investigator solves mysteries and teems with knowledge. In battle, they play out every possibility in advance.",
+        "url": "/Classes.aspx?ID=59"
+    },
+    {
+        "name": "Kineticist",
+        "ability": "Constitution",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "Elemental matter blasts from a magical gate within every kineticist. Shaping these elements into magical impulses, a kineticist can fight nonstop …",
+        "url": "/Classes.aspx?ID=23"
+    },
+    {
+        "name": "Magus",
+        "ability": "Strength, Dexterity",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The magus, a polymath of battle, trains in both spells and strikes. Combining these arts, a magus channels spells into their weapon or body to …",
+        "url": "/Classes.aspx?ID=17"
+    },
+    {
+        "name": "Monk",
+        "ability": "Strength, Dexterity",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "The monk seeks perfection in all things, including using their body as the perfect weapon. They can transform into a blur of deadly blows in an …",
+        "url": "/Classes.aspx?ID=60"
+    },
+    {
+        "name": "Oracle",
+        "ability": "Charisma",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The oracle is a paradox of divine magic, able to tap into energies that grant potent revelations. Such power comes at the cost of a curse that they …",
+        "url": "/Classes.aspx?ID=61"
+    },
+    {
+        "name": "Psychic",
+        "ability": "Intelligence, Charisma",
+        "hp": "6",
+        "rarity": "Common",
+        "summary": "Guided by the personal combination of their subconscious and conscious mind, a psychic calls forth occult magic with but a thought. The psychic …",
+        "url": "/Classes.aspx?ID=68"
+    },
+    {
+        "name": "Ranger",
+        "ability": "Strength, Dexterity",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "Resourceful and cunning, the ranger is a hunter, tracker, and warrior who preserves the natural world and protects civilization from its ravages. …",
+        "url": "/Classes.aspx?ID=36"
+    },
+    {
+        "name": "Rogue",
+        "ability": "Dexterity, other",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "Cunning and quick, the rogue brings skill and expertise few of their comrades can match. In battle, they excel at sneak attacks and ambushes. Their …",
+        "url": "/Classes.aspx?ID=37"
+    },
+    {
+        "name": "Sorcerer",
+        "ability": "Charisma",
+        "hp": "6",
+        "rarity": "Common",
+        "summary": "The intense magic the sorcerer commands comes from neither study nor worship—it comes from their blood, the power of their heritage flowing through …",
+        "url": "/Classes.aspx?ID=62"
+    },
+    {
+        "name": "Summoner",
+        "ability": "Charisma",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "A summoner acts as the living anchor to a powerful being called an eidolon, which they call upon for aid. Summoners maintain deep connections with …",
+        "url": "/Classes.aspx?ID=18"
+    },
+    {
+        "name": "Swashbuckler",
+        "ability": "Dexterity",
+        "hp": "10",
+        "rarity": "Common",
+        "summary": "To a swashbuckler, anything worth doing is worth doing with style. This dynamic daredevil performs flamboyant attacks and bold feats of derring-do.",
+        "url": "/Classes.aspx?ID=63"
+    },
+    {
+        "name": "Thaumaturge",
+        "ability": "Charisma",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The thaumaturge has seen every monster and knows every secret. Supplementing their skill at arms and ability to strike a monster's weakness with …",
+        "url": "/Classes.aspx?ID=69"
+    },
+    {
+        "name": "Witch",
+        "ability": "Intelligence",
+        "hp": "6",
+        "rarity": "Common",
+        "summary": "The witch is a versatile spellcaster who learns their magic from a familiar, sent to them by a powerful and mysterious patron. The witch's mastery of …",
+        "url": "/Classes.aspx?ID=38"
+    },
+    {
+        "name": "Wizard",
+        "ability": "Intelligence",
+        "hp": "6",
+        "rarity": "Common",
+        "summary": "The wizard is the arcane master of spellcasting, plucking incredible power from reality through complicated spell formulas. They stride with …",
+        "url": "/Classes.aspx?ID=39"
+    }
+]
