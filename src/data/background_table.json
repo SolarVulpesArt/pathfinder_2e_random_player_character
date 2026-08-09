@@ -45,24 +45,6 @@
         "url": "/Backgrounds.aspx?ID=542"
     },
     {
-        "name": "Alkenstar Outlaw",
-        "ability": "Dexterity, Constitution",
-        "skill": "Thievery, Underworld Lore",
-        "feat": "Subtle Theft",
-        "rarity": "Uncommon",
-        "summary": "You're an outlaw whose first crime was stealing the guns from Alkenstar's Gunworks which allowed you to commence a crime spree of epic proportions. …",
-        "url": "/Backgrounds.aspx?ID=280"
-    },
-    {
-        "name": "Alkenstar Sojourner",
-        "ability": "Intelligence, Charisma",
-        "skill": "Society, Engineering Lore",
-        "feat": "Streetwise",
-        "rarity": "Uncommon",
-        "summary": "You came to Alkenstar because you heard they had guns, but you stayed because of the atmosphere. Or the guns. Either way, journalism and scientific …",
-        "url": "/Backgrounds.aspx?ID=281"
-    },
-    {
         "name": "Alloysmith",
         "ability": "Strength, Intelligence",
         "skill": "Crafting, Plane of Metal Lore",
@@ -160,15 +142,6 @@
         "rarity": "Rare",
         "summary": "During your formative years, you learned the stars are a gateway to mystical power or glimpses into the future. Perhaps you grew up surrounded by  …",
         "url": "/Backgrounds.aspx?ID=328"
-    },
-    {
-        "name": "Awful Scab",
-        "ability": "Dexterity, Constitution",
-        "skill": "Medicine, Fleshforged Lore",
-        "feat": "",
-        "rarity": "Rare",
-        "summary": "Prior to the Evisceration of 4707, the district of V'drysha was a lovely borough on the southern edge of Ecanus. Now, it's the Awful, a vast morass …",
-        "url": "/Backgrounds.aspx?ID=371"
     },
     {
         "name": "Bachuan Revolutionary",
@@ -311,7 +284,7 @@
         "skill": "Diplomacy, Dreamlands Lore",
         "feat": "",
         "rarity": "Rare",
-        "summary": "",
+        "summary": "You were born in a village where everyone has a twin with a special link.",
         "url": "/Backgrounds.aspx?ID=587"
     },
     {

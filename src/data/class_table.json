@@ -214,5 +214,21 @@
         "rarity": "Common",
         "summary": "The wizard is the arcane master of spellcasting, plucking incredible power from reality through complicated spell formulas.",
         "url": "/Classes.aspx?ID=39"
+    },
+    {
+        "name": "Necromancer",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The necromancer is an occult spellcaster seeking the ever-changing borders of life and death. They summon undead servants and manipulate death",
+        "url": "/Classes.aspx?ID=75"
+    },
+    {
+        "name": "Runesmith",
+        "ability": "Intelligence",
+        "hp": "8",
+        "rarity": "Common",
+        "summary": "The runesmith is an equal parts scholar and artist studying mystical symbols and enchancing anything you can draw a rune into.",
+        "url": "/Classes.aspx?ID=76"
     }
 ]
